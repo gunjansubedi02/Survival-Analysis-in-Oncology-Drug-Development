@@ -1,5 +1,3 @@
-Copy everything between the two lines below:
-
 ---
 
 # Survival Analysis in Oncology Drug Development
