@@ -3,8 +3,6 @@
 
 ---
 
-# Survival Analysis in Oncology Drug Development
-
 **Author:** Gunjan Subedi
 **Programme:** Masters in AI for Drug Development (Independent project developed alongside the programme)
 **Dataset:** Simulated Phase III Oncology Trial — Overall Survival (OS)
